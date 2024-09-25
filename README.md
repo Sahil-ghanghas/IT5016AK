@@ -2,6 +2,7 @@
 
 Overview of Software Design Principles in the Gaming Zone Application
 The gaming zone application is designed to manage user interactions within a gaming environment. It allows users to enter and exit the gaming zone while logging these actions for tracking and analysis.
+
 1.Single Responsibility Principle (SRP)
    Definition: Each class should have one responsibility or reason to change.
    Application in Code: 
